@@ -1,23 +1,11 @@
-"For Super simplicity & Life easier"
+"Coding for Fun"
 
 ## Articles
 
-[[iOS]] 
-[[Android]] 
-[[Ruby]]
-[[Python]]
-
-## Tools
-
-[[MacOSx]]
+# Tools
 
 ## Practice
 
-[[Agile]]
-[[CI]]
-
 ## Slides
 
-[[iPhone Restore|/Slides/iPhoneRestore.pdf]]
-
-## [[About]]
+# [[About]]

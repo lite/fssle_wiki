@@ -1,10 +1,8 @@
 ID: __Lite__
 
 @: <litekok@gmail.com>
+[Blog](http://lite.heroku.com)
 
 [GitHub](http://github.com/lite)
-
-Worked at [FD](http://www.futuredial.com)
-
-Now is [TW](http://www.thouhghtworks.com)
+[Facebook](https://www.facebook.com/litekok)
 
