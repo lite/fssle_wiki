@@ -1,11 +1,11 @@
 "Coding for Fun"
 
-## Articles
+## [[Articles]]
 
-# Tools
+## [[Tools]]
 
-## Practice
+## [[Practice]]
 
-## Slides
+## [[Slides]]
 
-# [[About]]
+## [[About]]
